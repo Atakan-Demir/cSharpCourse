@@ -1,0 +1,8 @@
+C:\education\cSharpCourse\Conditionals\bin\Debug\Conditionals.exe.config
+C:\education\cSharpCourse\Conditionals\bin\Debug\Conditionals.exe
+C:\education\cSharpCourse\Conditionals\bin\Debug\Conditionals.pdb
+C:\education\cSharpCourse\Conditionals\obj\Debug\Conditionals.csproj.AssemblyReference.cache
+C:\education\cSharpCourse\Conditionals\obj\Debug\Conditionals.csproj.SuggestedBindingRedirects.cache
+C:\education\cSharpCourse\Conditionals\obj\Debug\Conditionals.csproj.CoreCompileInputs.cache
+C:\education\cSharpCourse\Conditionals\obj\Debug\Conditionals.exe
+C:\education\cSharpCourse\Conditionals\obj\Debug\Conditionals.pdb

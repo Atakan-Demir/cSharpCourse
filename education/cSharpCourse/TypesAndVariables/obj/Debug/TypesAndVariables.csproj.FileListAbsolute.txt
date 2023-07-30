@@ -1,0 +1,8 @@
+C:\education\cSharpCourse\TypesAndVariables\bin\Debug\TypesAndVariables.exe.config
+C:\education\cSharpCourse\TypesAndVariables\bin\Debug\TypesAndVariables.exe
+C:\education\cSharpCourse\TypesAndVariables\bin\Debug\TypesAndVariables.pdb
+C:\education\cSharpCourse\TypesAndVariables\obj\Debug\TypesAndVariables.csproj.AssemblyReference.cache
+C:\education\cSharpCourse\TypesAndVariables\obj\Debug\TypesAndVariables.csproj.SuggestedBindingRedirects.cache
+C:\education\cSharpCourse\TypesAndVariables\obj\Debug\TypesAndVariables.csproj.CoreCompileInputs.cache
+C:\education\cSharpCourse\TypesAndVariables\obj\Debug\TypesAndVariables.exe
+C:\education\cSharpCourse\TypesAndVariables\obj\Debug\TypesAndVariables.pdb

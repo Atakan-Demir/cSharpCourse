@@ -1,0 +1,8 @@
+C:\education\cSharpCourse\Methods\bin\Debug\Methods.exe.config
+C:\education\cSharpCourse\Methods\bin\Debug\Methods.exe
+C:\education\cSharpCourse\Methods\bin\Debug\Methods.pdb
+C:\education\cSharpCourse\Methods\obj\Debug\Methods.csproj.AssemblyReference.cache
+C:\education\cSharpCourse\Methods\obj\Debug\Methods.csproj.SuggestedBindingRedirects.cache
+C:\education\cSharpCourse\Methods\obj\Debug\Methods.csproj.CoreCompileInputs.cache
+C:\education\cSharpCourse\Methods\obj\Debug\Methods.exe
+C:\education\cSharpCourse\Methods\obj\Debug\Methods.pdb
