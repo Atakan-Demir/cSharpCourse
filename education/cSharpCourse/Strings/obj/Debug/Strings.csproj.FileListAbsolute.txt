@@ -1,0 +1,8 @@
+C:\Users\DmR\Documents\GitHub\cSharpCourse\education\cSharpCourse\Strings\bin\Debug\Strings.exe.config
+C:\Users\DmR\Documents\GitHub\cSharpCourse\education\cSharpCourse\Strings\bin\Debug\Strings.exe
+C:\Users\DmR\Documents\GitHub\cSharpCourse\education\cSharpCourse\Strings\bin\Debug\Strings.pdb
+C:\Users\DmR\Documents\GitHub\cSharpCourse\education\cSharpCourse\Strings\obj\Debug\Strings.csproj.AssemblyReference.cache
+C:\Users\DmR\Documents\GitHub\cSharpCourse\education\cSharpCourse\Strings\obj\Debug\Strings.csproj.SuggestedBindingRedirects.cache
+C:\Users\DmR\Documents\GitHub\cSharpCourse\education\cSharpCourse\Strings\obj\Debug\Strings.csproj.CoreCompileInputs.cache
+C:\Users\DmR\Documents\GitHub\cSharpCourse\education\cSharpCourse\Strings\obj\Debug\Strings.exe
+C:\Users\DmR\Documents\GitHub\cSharpCourse\education\cSharpCourse\Strings\obj\Debug\Strings.pdb

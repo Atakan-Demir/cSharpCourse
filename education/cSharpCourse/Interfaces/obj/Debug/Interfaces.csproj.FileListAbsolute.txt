@@ -1,0 +1,8 @@
+C:\Users\DmR\Documents\GitHub\cSharpCourse\education\cSharpCourse\Interfaces\bin\Debug\Interfaces.exe.config
+C:\Users\DmR\Documents\GitHub\cSharpCourse\education\cSharpCourse\Interfaces\bin\Debug\Interfaces.exe
+C:\Users\DmR\Documents\GitHub\cSharpCourse\education\cSharpCourse\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\DmR\Documents\GitHub\cSharpCourse\education\cSharpCourse\Interfaces\obj\Debug\Interfaces.csproj.AssemblyReference.cache
+C:\Users\DmR\Documents\GitHub\cSharpCourse\education\cSharpCourse\Interfaces\obj\Debug\Interfaces.csproj.SuggestedBindingRedirects.cache
+C:\Users\DmR\Documents\GitHub\cSharpCourse\education\cSharpCourse\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\DmR\Documents\GitHub\cSharpCourse\education\cSharpCourse\Interfaces\obj\Debug\Interfaces.exe
+C:\Users\DmR\Documents\GitHub\cSharpCourse\education\cSharpCourse\Interfaces\obj\Debug\Interfaces.pdb
