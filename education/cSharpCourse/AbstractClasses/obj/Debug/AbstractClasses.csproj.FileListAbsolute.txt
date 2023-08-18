@@ -1,0 +1,8 @@
+C:\Users\DmR\Documents\GitHub\cSharpCourse\education\cSharpCourse\AbstractClasses\bin\Debug\AbstractClasses.exe.config
+C:\Users\DmR\Documents\GitHub\cSharpCourse\education\cSharpCourse\AbstractClasses\bin\Debug\AbstractClasses.exe
+C:\Users\DmR\Documents\GitHub\cSharpCourse\education\cSharpCourse\AbstractClasses\bin\Debug\AbstractClasses.pdb
+C:\Users\DmR\Documents\GitHub\cSharpCourse\education\cSharpCourse\AbstractClasses\obj\Debug\AbstractClasses.csproj.AssemblyReference.cache
+C:\Users\DmR\Documents\GitHub\cSharpCourse\education\cSharpCourse\AbstractClasses\obj\Debug\AbstractClasses.csproj.SuggestedBindingRedirects.cache
+C:\Users\DmR\Documents\GitHub\cSharpCourse\education\cSharpCourse\AbstractClasses\obj\Debug\AbstractClasses.csproj.CoreCompileInputs.cache
+C:\Users\DmR\Documents\GitHub\cSharpCourse\education\cSharpCourse\AbstractClasses\obj\Debug\AbstractClasses.exe
+C:\Users\DmR\Documents\GitHub\cSharpCourse\education\cSharpCourse\AbstractClasses\obj\Debug\AbstractClasses.pdb

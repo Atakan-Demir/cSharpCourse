@@ -1,0 +1,8 @@
+C:\Users\DmR\Documents\GitHub\cSharpCourse\education\cSharpCourse\VirtualMethods\bin\Debug\VirtualMethods.exe.config
+C:\Users\DmR\Documents\GitHub\cSharpCourse\education\cSharpCourse\VirtualMethods\bin\Debug\VirtualMethods.exe
+C:\Users\DmR\Documents\GitHub\cSharpCourse\education\cSharpCourse\VirtualMethods\bin\Debug\VirtualMethods.pdb
+C:\Users\DmR\Documents\GitHub\cSharpCourse\education\cSharpCourse\VirtualMethods\obj\Debug\VirtualMethods.csproj.AssemblyReference.cache
+C:\Users\DmR\Documents\GitHub\cSharpCourse\education\cSharpCourse\VirtualMethods\obj\Debug\VirtualMethods.csproj.SuggestedBindingRedirects.cache
+C:\Users\DmR\Documents\GitHub\cSharpCourse\education\cSharpCourse\VirtualMethods\obj\Debug\VirtualMethods.csproj.CoreCompileInputs.cache
+C:\Users\DmR\Documents\GitHub\cSharpCourse\education\cSharpCourse\VirtualMethods\obj\Debug\VirtualMethods.exe
+C:\Users\DmR\Documents\GitHub\cSharpCourse\education\cSharpCourse\VirtualMethods\obj\Debug\VirtualMethods.pdb
