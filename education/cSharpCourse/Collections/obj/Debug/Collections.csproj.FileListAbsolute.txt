@@ -1,0 +1,8 @@
+C:\Users\DmR\Documents\GitHub\cSharpCourse\education\cSharpCourse\Collections\bin\Debug\Collections.exe.config
+C:\Users\DmR\Documents\GitHub\cSharpCourse\education\cSharpCourse\Collections\bin\Debug\Collections.exe
+C:\Users\DmR\Documents\GitHub\cSharpCourse\education\cSharpCourse\Collections\bin\Debug\Collections.pdb
+C:\Users\DmR\Documents\GitHub\cSharpCourse\education\cSharpCourse\Collections\obj\Debug\Collections.csproj.AssemblyReference.cache
+C:\Users\DmR\Documents\GitHub\cSharpCourse\education\cSharpCourse\Collections\obj\Debug\Collections.csproj.SuggestedBindingRedirects.cache
+C:\Users\DmR\Documents\GitHub\cSharpCourse\education\cSharpCourse\Collections\obj\Debug\Collections.csproj.CoreCompileInputs.cache
+C:\Users\DmR\Documents\GitHub\cSharpCourse\education\cSharpCourse\Collections\obj\Debug\Collections.exe
+C:\Users\DmR\Documents\GitHub\cSharpCourse\education\cSharpCourse\Collections\obj\Debug\Collections.pdb

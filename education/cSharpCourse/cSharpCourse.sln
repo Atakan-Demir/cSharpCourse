@@ -39,6 +39,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constructors", "Constructor
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReferenceAndValueType", "ReferenceAndValueType\ReferenceAndValueType.csproj", "{A08BE405-576F-42AA-8122-A0CD279F23AD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collections", "Collections\Collections.csproj", "{B150C630-8196-4D70-BC45-69F81DA055D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exceptions", "Exceptions\Exceptions.csproj", "{0A075C89-BB01-4B78-8775-F15A83A8B5C5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +121,14 @@ Global
 		{A08BE405-576F-42AA-8122-A0CD279F23AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A08BE405-576F-42AA-8122-A0CD279F23AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A08BE405-576F-42AA-8122-A0CD279F23AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B150C630-8196-4D70-BC45-69F81DA055D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B150C630-8196-4D70-BC45-69F81DA055D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B150C630-8196-4D70-BC45-69F81DA055D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B150C630-8196-4D70-BC45-69F81DA055D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A075C89-BB01-4B78-8775-F15A83A8B5C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A075C89-BB01-4B78-8775-F15A83A8B5C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A075C89-BB01-4B78-8775-F15A83A8B5C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A075C89-BB01-4B78-8775-F15A83A8B5C5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

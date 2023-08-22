@@ -1,0 +1,8 @@
+C:\Users\DmR\Documents\GitHub\cSharpCourse\education\cSharpCourse\Exceptions\bin\Debug\Exceptions.exe.config
+C:\Users\DmR\Documents\GitHub\cSharpCourse\education\cSharpCourse\Exceptions\bin\Debug\Exceptions.exe
+C:\Users\DmR\Documents\GitHub\cSharpCourse\education\cSharpCourse\Exceptions\bin\Debug\Exceptions.pdb
+C:\Users\DmR\Documents\GitHub\cSharpCourse\education\cSharpCourse\Exceptions\obj\Debug\Exceptions.csproj.AssemblyReference.cache
+C:\Users\DmR\Documents\GitHub\cSharpCourse\education\cSharpCourse\Exceptions\obj\Debug\Exceptions.csproj.SuggestedBindingRedirects.cache
+C:\Users\DmR\Documents\GitHub\cSharpCourse\education\cSharpCourse\Exceptions\obj\Debug\Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\DmR\Documents\GitHub\cSharpCourse\education\cSharpCourse\Exceptions\obj\Debug\Exceptions.exe
+C:\Users\DmR\Documents\GitHub\cSharpCourse\education\cSharpCourse\Exceptions\obj\Debug\Exceptions.pdb
