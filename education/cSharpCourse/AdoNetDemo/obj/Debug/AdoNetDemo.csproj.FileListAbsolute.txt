@@ -1,0 +1,11 @@
+C:\Users\DmR\Documents\GitHub\cSharpCourse\education\cSharpCourse\AdoNetDemo\bin\Debug\AdoNetDemo.exe.config
+C:\Users\DmR\Documents\GitHub\cSharpCourse\education\cSharpCourse\AdoNetDemo\bin\Debug\AdoNetDemo.exe
+C:\Users\DmR\Documents\GitHub\cSharpCourse\education\cSharpCourse\AdoNetDemo\bin\Debug\AdoNetDemo.pdb
+C:\Users\DmR\Documents\GitHub\cSharpCourse\education\cSharpCourse\AdoNetDemo\obj\Debug\AdoNetDemo.csproj.AssemblyReference.cache
+C:\Users\DmR\Documents\GitHub\cSharpCourse\education\cSharpCourse\AdoNetDemo\obj\Debug\AdoNetDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\DmR\Documents\GitHub\cSharpCourse\education\cSharpCourse\AdoNetDemo\obj\Debug\AdoNetDemo.Form1.resources
+C:\Users\DmR\Documents\GitHub\cSharpCourse\education\cSharpCourse\AdoNetDemo\obj\Debug\AdoNetDemo.Properties.Resources.resources
+C:\Users\DmR\Documents\GitHub\cSharpCourse\education\cSharpCourse\AdoNetDemo\obj\Debug\AdoNetDemo.csproj.GenerateResource.cache
+C:\Users\DmR\Documents\GitHub\cSharpCourse\education\cSharpCourse\AdoNetDemo\obj\Debug\AdoNetDemo.csproj.CoreCompileInputs.cache
+C:\Users\DmR\Documents\GitHub\cSharpCourse\education\cSharpCourse\AdoNetDemo\obj\Debug\AdoNetDemo.exe
+C:\Users\DmR\Documents\GitHub\cSharpCourse\education\cSharpCourse\AdoNetDemo\obj\Debug\AdoNetDemo.pdb
