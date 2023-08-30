@@ -1,0 +1,8 @@
+C:\Users\DmR\Documents\GitHub\cSharpCourse\education\cSharpCourse\Generics\bin\Debug\Generics.exe.config
+C:\Users\DmR\Documents\GitHub\cSharpCourse\education\cSharpCourse\Generics\bin\Debug\Generics.exe
+C:\Users\DmR\Documents\GitHub\cSharpCourse\education\cSharpCourse\Generics\bin\Debug\Generics.pdb
+C:\Users\DmR\Documents\GitHub\cSharpCourse\education\cSharpCourse\Generics\obj\Debug\Generics.csproj.AssemblyReference.cache
+C:\Users\DmR\Documents\GitHub\cSharpCourse\education\cSharpCourse\Generics\obj\Debug\Generics.csproj.SuggestedBindingRedirects.cache
+C:\Users\DmR\Documents\GitHub\cSharpCourse\education\cSharpCourse\Generics\obj\Debug\Generics.csproj.CoreCompileInputs.cache
+C:\Users\DmR\Documents\GitHub\cSharpCourse\education\cSharpCourse\Generics\obj\Debug\Generics.exe
+C:\Users\DmR\Documents\GitHub\cSharpCourse\education\cSharpCourse\Generics\obj\Debug\Generics.pdb
