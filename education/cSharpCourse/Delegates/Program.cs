@@ -8,6 +8,9 @@ namespace Delegates // Elciler
 {
     // elcilik olusturuldu
     public delegate void MyDelegate();
+    public delegate void MyDelegate2(string text);
+    // geri deger donduren bir delege varsa en sonki islemin degerini dondurur
+    public delegate int MyDelegate3(int sayi1,int sayi2);
     
     internal class Program
     {
@@ -26,6 +29,18 @@ namespace Delegates // Elciler
             // elci gorevini yapiyor 
             myDelegate();
 
+
+            MyDelegate2 myDelegate2 = customerManager.WriteMessage;
+            myDelegate2 += customerManager.WriteAlert;
+            myDelegate2("Say my name!");
+
+
+            Matematik matematik = new Matematik();
+            MyDelegate3 myDelegate3 = matematik.Topla;
+            myDelegate3 += matematik.Carp;
+            var sonuc = myDelegate3(2, 3);
+            Console.WriteLine(sonuc);
+
             Console.ReadLine();
         }
     }
@@ -38,6 +53,25 @@ namespace Delegates // Elciler
         public void ShowAlert()
         {
             Console.WriteLine("Be careful!");
+        }
+        public void WriteMessage(string message)
+        {
+            Console.WriteLine(message);
+        }
+        public void WriteAlert(string alert)
+        {
+            Console.WriteLine(alert);
+        }
+    }
+    public class Matematik
+    {
+        public int Topla(int sayi1,int sayi2)
+        {
+            return sayi1 + sayi2;
+        }
+        public int Carp(int sayi1, int sayi2)
+        {
+            return sayi1 * sayi2;
         }
     }
 }

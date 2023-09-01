@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
 
 namespace Exceptions // Hata Yonetimi
@@ -12,7 +13,49 @@ namespace Exceptions // Hata Yonetimi
         {
             //ExeptionIntro();
 
+            //TryCatch();
 
+            //ActionDemo();
+
+            //>>> Func ile Calismak <<<
+            // <parametre,parametre,cikti>
+            Func<int, int, int> add = Topla;
+            Console.WriteLine(add(3, 5));
+
+            // parametresiz delegate 
+            Func<int> getRandomNumber = delegate ()
+            {
+                Random random = new Random();
+                return random.Next(1, 100);
+            };
+
+
+            // lambda kullanimi
+            Func<int> getRandomNumber2=()=> new Random().Next(1,100);
+
+            Console.WriteLine(getRandomNumber());
+            Thread.Sleep(1000); // 1 saniye bekle
+            Console.WriteLine(getRandomNumber2());
+
+            Console.ReadLine();
+        }
+
+        static int Topla(int x,int y)
+        {
+            return x + y;
+        }
+
+        private static void ActionDemo()
+        {
+            //method (action delegasyonu)
+            HandleException(() =>
+            {
+                Find();
+            });
+        }
+
+        private static void TryCatch()
+        {
             try
             {
                 Find();
@@ -21,17 +64,10 @@ namespace Exceptions // Hata Yonetimi
             {
                 Console.WriteLine(exeption.Message);
             }
-
-            //method (action delegasyonu)
-            HandleException(() =>
-            {
-                Find();
-            });
-
-            Console.ReadLine();
         }
 
         //parametresiz method blogu - Action Delegasyonu
+        //burada method blogu action a denk gelir ve try-catch icinde action Invoke edilir.
         private static void HandleException(Action action)
         {
             try
