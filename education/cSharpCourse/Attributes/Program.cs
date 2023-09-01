@@ -17,7 +17,8 @@ namespace Attributes // Oz nitelikler
             Console.ReadLine();
         }
     }
-    [ToTable("Customers")]
+    [ToTable("Customers")]// iki tabloyada bak
+    [ToTable("TblCustomers")]
     class Customer
     {
         public int Id { get; set; }
@@ -46,7 +47,7 @@ namespace Attributes // Oz nitelikler
     {
 
     }
-    [AttributeUsage(AttributeTargets.Class)]// Sadece Class larin ustune kullanilabilir demek
+    [AttributeUsage(AttributeTargets.Class,AllowMultiple =true)]// Sadece Class larin ustune kullanilabilir demek
     //[AttributeUsage(AttributeTargets.Class | AttributeTargets.Property)] Class ve Prop lara kullanilabilir demek
     class ToTableAttribute : Attribute
     {
